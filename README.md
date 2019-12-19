@@ -3,7 +3,7 @@
 ## install(mac)
 `brew install cowsay`
 
-## show directory
+## show your cowsay file directory
 `cowsay -l`
 
 ## mv 
