@@ -7,7 +7,7 @@ brew install cowsay
 cowsay -l
 
 ## mv 
-mv genba-neko.cow <<your cowfile directory>>
+mv genba-neko.cow `your cowfile directory`
 
 ## done
 cowsay -f genba-neko ヨシ！
